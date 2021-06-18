@@ -1,0 +1,14 @@
+C:\Users\Ammaar\source\repos\LanguageGame\bin\Debug\LanguageGame.exe.config
+C:\Users\Ammaar\source\repos\LanguageGame\bin\Debug\LanguageGame.exe
+C:\Users\Ammaar\source\repos\LanguageGame\bin\Debug\LanguageGame.pdb
+C:\Users\Ammaar\source\repos\LanguageGame\obj\Debug\LanguageGame.csprojAssemblyReference.cache
+C:\Users\Ammaar\source\repos\LanguageGame\obj\Debug\LanguageGame.SplashScreen.resources
+C:\Users\Ammaar\source\repos\LanguageGame\obj\Debug\LanguageGame.Properties.Resources.resources
+C:\Users\Ammaar\source\repos\LanguageGame\obj\Debug\LanguageGame.csproj.GenerateResource.cache
+C:\Users\Ammaar\source\repos\LanguageGame\obj\Debug\LanguageGame.csproj.CoreCompileInputs.cache
+C:\Users\Ammaar\source\repos\LanguageGame\obj\Debug\LanguageGame.exe
+C:\Users\Ammaar\source\repos\LanguageGame\obj\Debug\LanguageGame.pdb
+C:\Users\Ammaar\source\repos\LanguageGame\obj\Debug\LanguageGame.HomeMenu.resources
+C:\Users\Ammaar\source\repos\LanguageGame\obj\Debug\LanguageGame.LevelSelector.resources
+C:\Users\Ammaar\source\repos\LanguageGame\obj\Debug\LanguageGame.Form1.resources
+C:\Users\Ammaar\source\repos\LanguageGame\obj\Debug\LanguageGame.Japanese.resources
