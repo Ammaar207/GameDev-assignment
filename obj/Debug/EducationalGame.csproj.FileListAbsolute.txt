@@ -1,0 +1,11 @@
+C:\Users\CPUT\source\repos\EducationalGame\EducationalGame\bin\Debug\EducationalGame.exe.config
+C:\Users\CPUT\source\repos\EducationalGame\EducationalGame\bin\Debug\EducationalGame.exe
+C:\Users\CPUT\source\repos\EducationalGame\EducationalGame\bin\Debug\EducationalGame.pdb
+C:\Users\CPUT\source\repos\EducationalGame\EducationalGame\obj\Debug\EducationalGame.csprojAssemblyReference.cache
+C:\Users\CPUT\source\repos\EducationalGame\EducationalGame\obj\Debug\EducationalGame.Form1.resources
+C:\Users\CPUT\source\repos\EducationalGame\EducationalGame\obj\Debug\EducationalGame.Properties.Resources.resources
+C:\Users\CPUT\source\repos\EducationalGame\EducationalGame\obj\Debug\EducationalGame.csproj.GenerateResource.cache
+C:\Users\CPUT\source\repos\EducationalGame\EducationalGame\obj\Debug\EducationalGame.csproj.CoreCompileInputs.cache
+C:\Users\CPUT\source\repos\EducationalGame\EducationalGame\obj\Debug\EducationalGame.exe
+C:\Users\CPUT\source\repos\EducationalGame\EducationalGame\obj\Debug\EducationalGame.pdb
+C:\Users\CPUT\source\repos\EducationalGame\EducationalGame\obj\Debug\EducationalGame.Splashscreen.resources

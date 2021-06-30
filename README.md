@@ -1,1 +1,1 @@
-# GameDev-assignment
+# Educational-Game-Basic-Version
